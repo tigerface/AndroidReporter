@@ -29,6 +29,8 @@ We can use the log file to anaylsis:
 * the whole time of stay every Activity or Fragment
 * log where every single custom report is from
  
+# Simple Archture
+![](https://github.com/tigerface/AndroidReporter/blob/master/screenscaps/reports.png)
 
 # Thanks
 Thanks for Volley,when I began to write this first Android library,my inspiration is from volley.
