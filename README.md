@@ -25,8 +25,10 @@ a easy library for Android report.
 {"type":1,"timeStamp":1459925836708,"mMethod":0,"tag":"SecondActivity","extra":"onStop","mUrl":""}
 
 # Target
-We can use the log file to anaylsis:
-  * the whole time of stay every Activity or Fragment
-  * log where every single custom report is from
+We can use the log file to anaylsis: 
+* the whole time of stay every Activity or Fragment
+* log where every single custom report is from
+ 
+
 # Thanks
 Thanks for Volly,when I began to write this first Android library,my inspiration is from volly.
